@@ -1,0 +1,14 @@
+version: 1
+projects:
+  - id: common
+    name: common
+    description: ""
+    resources:
+      knowledge:
+        - common
+      skills:
+        - common
+      learnings:
+        - common
+      agents:
+        - common
