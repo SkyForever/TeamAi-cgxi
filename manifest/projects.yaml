@@ -1,0 +1,14 @@
+version: 1
+projects:
+  - id: test
+    name: test
+    description: ""
+    resources:
+      knowledge:
+        - test
+      skills:
+        - test
+      learnings:
+        - test
+      agents:
+        - test
